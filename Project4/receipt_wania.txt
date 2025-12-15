@@ -47,3 +47,62 @@ Product: charger | Price: Rs.189
 ------------------------
 Total Price: Rs.2878
 ========================
+======= RECEIPT =======
+Customer Username: WANIA
+Name: WANIA ZAHRA
+Phone: 12345
+Email: WANIA@GMAIL.COM
+Address: ISLAMABAD
+------------------------
+Product: charger | Price: Rs.189
+Product: charger | Price: Rs.189
+Product: Milk | Price: Rs.450
+Product: mobile | Price: Rs.1089
+Product: mobile case | Price: Rs.65
+------------------------
+Total Price: Rs.1982
+========================
+======= RECEIPT =======
+Customer Username: WANIA
+Name: WANIA
+Phone: 12345
+Email: WANIA@GMAIL.COM
+Address: ISLAMABAD
+------------------------
+Product: charger | Price: Rs.189
+Product: charger | Price: Rs.189
+Product: Notebooks | Price: Rs.250
+------------------------
+Total Price: Rs.628
+========================
+======= RECEIPT =======
+Customer Username: WANIA
+Name: WANIA ZAHRA
+Phone: 12345
+Email: WANIA@GMAIL.COM
+Address: ISLAMABAD
+------------------------
+Product: charger | Price: Rs.189
+Product: charger | Price: Rs.189
+Product: Shirt | Price: Rs.2500
+Product: Notebooks | Price: Rs.250
+Product: Milk | Price: Rs.450
+------------------------
+Total Price: Rs.3578
+========================
+======= RECEIPT =======
+Customer Username: WANIA
+Name: WANIA ZAHRA
+Phone: 122
+Email: WANIA@GMAIL.COM
+Address: ISLAMABAD
+------------------------
+Product: charger | Price: Rs.189
+Product: charger | Price: Rs.189
+Product: Trousers | Price: Rs.1500
+Product: pencils and markers | Price: Rs.750
+Product: Milk | Price: Rs.450
+Product: Cold Drink | Price: Rs.126
+------------------------
+Total Price: Rs.3204
+========================

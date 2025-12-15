@@ -37,12 +37,12 @@ public:
 			cout << "Enter address: ";
 			getline(cin, address);
 
-			customer << username << endl;
-			customer << password << endl;
-			customer << name << endl;
-			customer << phoneno << endl;
-			customer << email << endl;
-			customer << address << endl;
+			customer << "USERNAME"<<username << endl;
+			customer <<"PASSWORD"<< password << endl;
+			customer << "FULL NAME"<<name << endl;
+			customer << "PHONE NO"<<phoneno << endl;
+			customer <<"EMAIL"<< email << endl;
+			customer << "ADDRESS"<<address << endl;
 
 			customer.close();
 			cout << "Customer data saved successfully!\n";
@@ -90,9 +90,6 @@ public:
 
 
 				}
-
-
-
 			}
 			else {
 				cout << "The file does not open" << endl;
@@ -135,8 +132,6 @@ public:
 
 		stockquantity--;
 
-
-
 	}float getprice() {
 		return price;
 	}friend class Cart;
@@ -145,7 +140,6 @@ public:
 class sationary :public Product {
 private:
 	string type;
-
 public:
 	sationary(int ID, string n, string t, int p, int sq) :Product(ID, n, p, sq) {
 		type = t;
@@ -185,15 +179,11 @@ public:
 		cout << "The model is " << model << endl;
 		Product::stock();
 	}
-
-
 };
 
 class food :public Product {
 private:
 	string type;
-	
-
 public:
 	food(int ID, string n, int p, int sq, string t) :Product(ID, n, p, sq) {
 		type = t;
@@ -219,8 +209,7 @@ public:
 		total = 0;
 		count = 0;
 	}
-
-	void input() {
+void input() {
 		cout << "Enter the ID of the items you want to buy (0 to finish): " << endl;
 		while (true) {
 			cin >> match;
@@ -453,6 +442,7 @@ int main() {
 	SetConsoleTextAttribute(h, 12);
 	payment p;
 	p.pay();
+	SetConsoleTextAttribute(h, 8);
 }
 
 
