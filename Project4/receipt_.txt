@@ -1,0 +1,45 @@
+======= RECEIPT =======
+Customer Username: 
+Name: 
+Phone: -9.25596e+61
+Email: 
+Address: 
+------------------------
+Product: Notebooks | Price: Rs.250
+------------------------
+Total Price: Rs.250
+========================
+======= RECEIPT =======
+Customer Username: 
+Name: 
+Phone: -9.25596e+61
+Email: 
+Address: 
+------------------------
+Product: laptop | Price: Rs.10000
+Product: laptop | Price: Rs.10000
+Product: mobile | Price: Rs.1089
+Product: mobile | Price: Rs.1089
+------------------------
+Total Price: Rs.22178
+========================
+======= RECEIPT =======
+Customer Username: 
+Name: 
+Phone: -9.25596e+61
+Email: 
+Address: 
+------------------------
+------------------------
+Total Price: Rs.0
+========================
+======= RECEIPT =======
+Customer Username: 
+Name: 
+Phone: -9.25596e+61
+Email: 
+Address: 
+------------------------
+------------------------
+Total Price: Rs.0
+========================

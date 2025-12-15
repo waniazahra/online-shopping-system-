@@ -1,0 +1,11 @@
+======= RECEIPT =======
+Customer Username: wania za
+Name: wano
+Phone: 2345
+Email: uio
+Address: io
+------------------------
+Product: Trousers | Price: Rs.1500
+------------------------
+Total Price: Rs.1500
+========================

@@ -1,0 +1,49 @@
+======= RECEIPT =======
+Customer Username: wania
+Name: wania zahra
+Phone: 12345
+Email: wania
+Address: 678
+------------------------
+Product: Schoolbags | Price: Rs.1340
+Product: power bank | Price: Rs.889
+------------------------
+Total Price: Rs.2229
+========================
+======= RECEIPT =======
+Customer Username: wania
+Name: wania z
+Phone: 12345
+Email: wania
+Address: 123
+------------------------
+Product: Trousers | Price: Rs.1500
+------------------------
+Total Price: Rs.1500
+========================
+======= RECEIPT =======
+Customer Username: wania
+Name: wania zahra
+Phone: 12345
+Email: wania@gmail.com
+Address: islamabad
+------------------------
+Product: charger | Price: Rs.189
+Product: charger | Price: Rs.189
+Product: Notebooks | Price: Rs.250
+------------------------
+Total Price: Rs.628
+========================
+======= RECEIPT =======
+Customer Username: wania
+Name: wania zahra
+Phone: 12345
+Email: wania@gmq
+Address: ail.com
+------------------------
+Product: Shoes | Price: Rs.2500
+Product: charger | Price: Rs.189
+Product: charger | Price: Rs.189
+------------------------
+Total Price: Rs.2878
+========================

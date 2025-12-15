@@ -1,0 +1,11 @@
+======= RECEIPT =======
+Customer Username: bisma
+Name: bisma imtisaal
+Phone: 768
+Email: 
+Address: 98u8hn
+------------------------
+Product: Shoes | Price: Rs.2500
+------------------------
+Total Price: Rs.2500
+========================
